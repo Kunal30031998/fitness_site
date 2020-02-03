@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  overflow: hidden;
+  background-image: url("709.jpg");
+  background-size:     cover;                      /* <------ */
+  background-repeat:   no-repeat;
+  background-position: center center;
+  color:white;
+}
+
+h1 {
+  font-weight: 900;
+  color: #c5ebe8;
+  font-size: 64px;
+  text-shadow: 2px 2px #000000;
+}
